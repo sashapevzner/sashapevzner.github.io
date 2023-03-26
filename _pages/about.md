@@ -1,25 +1,42 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://cse.umn.edu/math'>School of Mathematics,</a> University of Minnesota, Twin Cities.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><font size = "2">Office: Vincent Hall 526</font></p>
+    <p><font size = "2">Email: pevzn002 at umn dot edu</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+#### About me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi! I'm a 4th year PhD candidate at UMN working with [Vic Reiner](https://www-users.cse.umn.edu/~reiner/). Broadly I enjoy working in the field of commutative algebra. Below are some more specific topics that I like (not an exhaustive list!)
+  * invariant theory of finite groups
+  * graded free resolutions
+  * representation stability and adjacent topics (FI modules, GL varieties)
+  * combinatorial commutative algebra
+  * working over characteristic 0, p, and maybe not a field!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#### Papers
+
+1. [Symmetric group fixed quotients of polynomial rings](https://arxiv.org/abs/2301.13377) (submitted)
+
+2. [Equivariant resolutions over Veronese rings](https://arxiv.org/abs/2210.16342) (submitted)   
+with Ayah Almousa, Michael Perlman, Victor Reiner, and Keller VandeBogert
+
+3. [Alexander duals of symmetric simplicial complexes and Stanley--Reisner ideals](https://arxiv.org/abs/2209.14132) (submitted)   
+with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
+
+#### Happenings
+
+* Elise Catania, Sylvester Zhang, and I are organizing [MRWAC 2023](https://sites.google.com/view/mrwac2023/), a research workshop for University of Minnesota graduate students, alumni, and postdocs.
+* Aaron Li, Lina Liu, Michelle Mastrianni, Mahrud Sayrafi, and I run the [Directed Reading Program](https://z.umn.edu/mathdrp) at UMN. Please fill out our interest form if you'd like to stay updated on the next application season.
