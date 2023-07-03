@@ -19,12 +19,16 @@ social: false  # includes social icons at the bottom of the page
 
 #### About me
 
-Hi! I'm a 4th year PhD candidate at UMN working with [Vic Reiner](https://www-users.cse.umn.edu/~reiner/). Broadly I enjoy working in the field of commutative algebra. Below are some more specific topics that I like (not an exhaustive list!)
+Hi! I'm a 4th year PhD student at UMN working with [Vic Reiner](https://www-users.cse.umn.edu/~reiner/). Broadly I enjoy working in the field of commutative algebra, and I often use free resolutions to study modules with natural symmetries.
+
+Below are some more specific topics that I like (not an exhaustive list!)
   * invariant theory of finite groups
-  * graded free resolutions
-  * representation stability and adjacent topics (FI modules, GL varieties)
-  * combinatorial commutative algebra
+  * minimal free resolutions, finite and infinite
+  * representation stability and FI modules
   * working over characteristic 0, p, and maybe not a field!
+  * algebraic geometry (learning it bit-by-bit)
+
+I will be on the academic job market in Fall 2023.
 
 #### Papers
 
@@ -38,5 +42,5 @@ with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
 
 #### Happenings
 
-* Elise Catania, Sylvester Zhang, and I are organizing [MRWAC 2023](https://sites.google.com/view/mrwac2023/), a research workshop for University of Minnesota graduate students, alumni, and postdocs.
+* Elise Catania, Sylvester Zhang, and I organized [MRWAC 2023](https://sites.google.com/view/mrwac2023/), a research workshop for University of Minnesota graduate students, alumni, and postdocs.
 * Aaron Li, Lina Liu, Michelle Mastrianni, Mahrud Sayrafi, and I run the [Directed Reading Program](https://z.umn.edu/mathdrp) at UMN. Please fill out our interest form if you'd like to stay updated on the next application season.
