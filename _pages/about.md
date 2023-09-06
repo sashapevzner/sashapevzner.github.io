@@ -42,10 +42,14 @@ with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
 
 #### Upcoming conference talks
 
-[Special session on Combinatorial and Homological Methods in Commutative Algebra](https://awm-math.org/meetings/awm-research-symposium/search-abstracts/?_sfm_abstract_symposium_year=2023&_sfm_abstract_session=Combinatorial%20and%20Homological%20Methods%20in%20Commutative%20Algebra%20%5BOrganized%20by%20Francesca%20Gandini%20and%20Selvi%20Kara%5D&sort_order=_sfm_abstract_time+asc+datetime), AWM Research Symposium, Clark Atlanta University
+[Special session on Combinatorial and Homological Methods in Commutative Algebra](https://awm-math.org/meetings/awm-research-symposium/search-abstracts/?_sfm_abstract_symposium_year=2023&_sfm_abstract_session=Combinatorial%20and%20Homological%20Methods%20in%20Commutative%20Algebra%20%5BOrganized%20by%20Francesca%20Gandini%20and%20Selvi%20Kara%5D&sort_order=_sfm_abstract_time+asc+datetime)
+AWM Research Symposium, Clark Atlanta University
 
-[Special session on Commutative Algebra, Differential Operators, and Singularities](http://www.ams.org/meetings/sectional/2307_program_ss11.html#title), AMS Fall Central Sectional, Omaha
+[Special session on Commutative Algebra, Differential Operators, and Singularities](http://www.ams.org/meetings/sectional/2307_program_ss11.html#title)
+AMS Fall Central Sectional, Omaha
 
-[GEMS of Commutative Algebra Workshop](https://sites.google.com/tamu.edu/gems-of-ca-2023/home), University of Minnesota
+[GEMS of Commutative Algebra Workshop](https://sites.google.com/tamu.edu/gems-of-ca-2023/home)
+University of Minnesota
 
-[Special session on Group Actions in Commutative Algebra](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss51.html#title), JMM San Francisco
+[Special session on Group Actions in Commutative Algebra](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss51.html#title)
+JMM San Francisco
