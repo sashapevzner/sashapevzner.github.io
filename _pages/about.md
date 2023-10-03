@@ -42,9 +42,6 @@ with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
 
 #### Upcoming conference talks
 
-[Special session on Combinatorial and Homological Methods in Commutative Algebra](https://awm-math.org/meetings/awm-research-symposium/search-abstracts/?_sfm_abstract_symposium_year=2023&_sfm_abstract_session=Combinatorial%20and%20Homological%20Methods%20in%20Commutative%20Algebra%20%5BOrganized%20by%20Francesca%20Gandini%20and%20Selvi%20Kara%5D&sort_order=_sfm_abstract_time+asc+datetime) <br>
-AWM Research Symposium, Clark Atlanta University
-
 [Special session on Commutative Algebra, Differential Operators, and Singularities](http://www.ams.org/meetings/sectional/2307_program_ss11.html#title) <br>
 AMS Fall Central Sectional, Omaha
 
