@@ -32,7 +32,8 @@ Below are some more specific topics that I like (not an exhaustive list!)
 
 #### Papers
 
-1. [Symmetric group fixed quotients of polynomial rings](https://arxiv.org/abs/2301.13377) (to appear in *Journal of Pure and Applied Algebra*)
+1. [Symmetric group fixed quotients of polynomial rings](https://arxiv.org/abs/2301.13377)
+*Journal of Pure and Applied Algebra, Volume 228, Issue 4 (2024)*
 
 2. [Equivariant resolutions over Veronese rings](https://arxiv.org/abs/2210.16342) (submitted)   
 with Ayah Almousa, Michael Perlman, Victor Reiner, and Keller VandeBogert
