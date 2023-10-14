@@ -32,7 +32,7 @@ Below are some more specific topics that I like (not an exhaustive list!)
 
 #### Papers
 
-1. [Symmetric group fixed quotients of polynomial rings](https://arxiv.org/abs/2301.13377)
+1. [Symmetric group fixed quotients of polynomial rings](https://arxiv.org/abs/2301.13377) <br>
 *Journal of Pure and Applied Algebra, Volume 228, Issue 4 (2024)*
 
 2. [Equivariant resolutions over Veronese rings](https://arxiv.org/abs/2210.16342) (submitted)   
@@ -42,9 +42,6 @@ with Ayah Almousa, Michael Perlman, Victor Reiner, and Keller VandeBogert
 with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
 
 #### Upcoming conference talks
-
-[Special session on Commutative Algebra, Differential Operators, and Singularities](http://www.ams.org/meetings/sectional/2307_program_ss11.html#title) <br>
-AMS Fall Central Sectional, Omaha
 
 [GEMS of Commutative Algebra Workshop](https://sites.google.com/tamu.edu/gems-of-ca-2023/home) <br>
 University of Minnesota
