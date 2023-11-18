@@ -43,8 +43,8 @@ with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
 
 #### Upcoming conference talks
 
-[GEMS of Commutative Algebra Workshop](https://sites.google.com/tamu.edu/gems-of-ca-2023/home) <br>
-University of Minnesota
-
 [Special session on Group Actions in Commutative Algebra](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss51.html#title) <br>
 JMM San Francisco
+
+[Special session on Commutative Algebra and its Applications](https://www.ams.org/meetings/sectional/2312_program_ss8.html#title) <br>
+AMS Spring Eastern Sectional, Howard University
