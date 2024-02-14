@@ -28,23 +28,15 @@ Below are some more specific topics that I like (not an exhaustive list!)
   * working over characteristic 0, p, and maybe not a field!
   * algebraic geometry (learning it bit-by-bit)
 
-**I am on the academic job market in Fall 2023.**
-
 #### Papers
 
 1. [Symmetric group fixed quotients of polynomial rings](https://arxiv.org/abs/2301.13377) <br>
 *Journal of Pure and Applied Algebra, Volume 228, Issue 4 (2024)*
 
-2. [Equivariant resolutions over Veronese rings](https://arxiv.org/abs/2210.16342) (submitted)   
-with Ayah Almousa, Michael Perlman, Victor Reiner, and Keller VandeBogert
+2. [Equivariant resolutions over Veronese rings](https://arxiv.org/abs/2210.16342)    
+with Ayah Almousa, Michael Perlman, Victor Reiner, and Keller VandeBogert <br>
+*Journal of the London Mathematical Society (2024)*
 
 3. [Alexander duals of symmetric simplicial complexes and Stanley--Reisner ideals](https://arxiv.org/abs/2209.14132) (submitted)   
 with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
 
-#### Upcoming conference talks
-
-[Special session on Group Actions in Commutative Algebra](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss51.html#title) <br>
-JMM San Francisco
-
-[Special session on Commutative Algebra and its Applications](https://www.ams.org/meetings/sectional/2312_program_ss8.html#title) <br>
-AMS Spring Eastern Sectional, Howard University
