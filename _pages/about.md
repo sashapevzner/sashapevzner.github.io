@@ -2,15 +2,15 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://cse.umn.edu/math'>School of Mathematics,</a> University of Minnesota, Twin Cities.
+subtitle: <a href='https://cos.northeastern.edu/mathematics/'>Department of Mathematics,</a> Northeastern University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><font size = "2">Office: Vincent Hall 526</font></p>
-    <p><font size = "2">Email: pevzn002 at umn dot edu</p>
+    <p><font size = "2">Office: tbd</font></p>
+    <p><font size = "2">Email: a dot pevzner at northeastern dot edu</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
