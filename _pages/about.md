@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 #### About me
 
-Hi! I am a mathematician studying commutative algebra, invariant theory, and combinatorics. In May 2024, I completed the defense for my PhD in Mathematics at the University of Minnesota, under the advisement of [Vic Reiner](https://www-users.cse.umn.edu/~reiner/). In Fall 2024, I plan to join Northeastern University as a Zelevinsky Postdoctoral Fellow. Broadly I enjoy working in the field of commutative algebra, and I often use free resolutions to study modules with natural symmetries.
+Hi! I am a Zelevinsky postdoctoral fellow at Northeastern University studying commutative algebra, invariant theory, and combinatorics. In May 2024, I defended my PhD in Mathematics at the University of Minnesota, under the advisement of [Vic Reiner](https://www-users.cse.umn.edu/~reiner/). Broadly I enjoy working in the field of commutative algebra, and I often use free resolutions to study modules with natural symmetries.
 
 Below are some more specific topics that I like (not an exhaustive list!)
   * invariant theory of finite groups
