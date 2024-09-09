@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p><font size = "2">Office: tbd</font></p>
+    <p><font size = "2">Office: 543B Nightingale</font></p>
     <p><font size = "2">Email: a dot pevzner at northeastern dot edu</p>
 
 news: false  # includes a list of news items
@@ -39,4 +39,8 @@ with Ayah Almousa, Michael Perlman, Victor Reiner, and Keller VandeBogert <br>
 
 3. [Alexander duals of symmetric simplicial complexes and Stanley--Reisner ideals](https://arxiv.org/abs/2209.14132) (submitted)   
 with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
+
+#### Upcoming talks
+
+September 16, 2024: Combinatorics Seminar at Brown University
 
