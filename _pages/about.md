@@ -42,5 +42,5 @@ with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
 
 #### Upcoming talks
 
-November 19, 2024: Combinatircs seminar, Brandeis University
+November 19, 2024: Combinatorics seminar, Brandeis University
 
