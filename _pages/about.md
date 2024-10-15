@@ -42,5 +42,5 @@ with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
 
 #### Upcoming talks
 
-September 16, 2024: Combinatorics Seminar at Brown University
+November 19, 2024: Combinatircs seminar, Brandeis University
 
