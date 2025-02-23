@@ -43,5 +43,7 @@ with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
 #### Upcoming talks
 
 March 13, 2025: Women in Commutative Algebra Workshop (part of Spring 2025 Thematic Program in Commutative Algebra and Applications), Fields Institute
+
 April 5-6, 2025: Special Session on Commutative Algebra and Interactions with Combinatorics, AMS Spring Eastern Sectional Meeting, Hartford, CT
+
 May 18, 2025: Special Session on Homological Methods in Commutative Algebra & Algebraic Geometry, AWM Research Symposium, Madison WI
