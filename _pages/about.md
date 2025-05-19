@@ -19,14 +19,14 @@ social: false  # includes social icons at the bottom of the page
 
 #### About me
 
-Hi! I am a Zelevinsky postdoctoral fellow at Northeastern University studying commutative algebra, invariant theory, and combinatorics. I received my PhD in 2024 from the University of Minnesota, where I was fortunate to be supervised by Professor [Victor Reiner](https://www-users.cse.umn.edu/~reiner/). Broadly I enjoy working in the field of commutative algebra, and I often use free resolutions to study modules with natural symmetries.
+I am a Zelevinsky postdoctoral fellow at Northeastern University studying commutative algebra, invariant theory, and combinatorics. I received my PhD in 2024 from the University of Minnesota, where I was fortunate to be supervised by Professor [Victor Reiner](https://www-users.cse.umn.edu/~reiner/). Broadly, I use free resolutions to study modules with natural symmetries.
 
 Below are some more specific topics that I like (not an exhaustive list!)
-  * invariant theory of finite groups
+  * invariant theory of finite groups and classical invariant theory
   * minimal free resolutions, finite and infinite
+  * equivariant free resolutions
   * representation stability and FI modules
-  * working over characteristic 0, p, and maybe not a field!
-  * algebraic geometry (learning it bit-by-bit)
+  * algebraic geometry
 
 #### Papers
 
@@ -41,8 +41,6 @@ with Ayah Almousa, Michael Perlman, Victor Reiner, and Keller VandeBogert <br>
 with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
 
 #### Upcoming talks
-
-May 18, 2025: Special Session on Homological Methods in Commutative Algebra & Algebraic Geometry, AWM Research Symposium, Madison WI
 
 June 8, 2025: Special Session on Algebraic and Enumerative Combinatorics, CMS summer meeting, Quebec City
 
