@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: PEVZNER, Alexandra - CV.pdf
+cv_pdf: CV_Pevzner_Spring_2026.pdf
 ---
