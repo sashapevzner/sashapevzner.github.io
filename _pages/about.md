@@ -42,6 +42,6 @@ with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
 
 #### Upcoming talks
 
-June 8, 2025: Special Session on Algebraic and Enumerative Combinatorics, CMS summer meeting, Quebec City
+April 1, 2026: Purdue Commutative Algebra Seminar
 
-October 3-5, 2025: Special Session on Algebraic Combinatorics and Combinatorial Commutative Algebra, AMS fall southeastern sectional meeting, Tulane University
+April 18-19: AMS Sectional Meeting, Topics in Commutative Algebra session, Fargo ND
