@@ -28,17 +28,23 @@ Below are some more specific topics that I like (not an exhaustive list!)
   * representation stability and FI modules
   * algebraic geometry
 
-#### Papers
+#### Preprints
 
-1. [Symmetric group fixed quotients of polynomial rings](https://arxiv.org/abs/2301.13377) <br>
-*Journal of Pure and Applied Algebra, Volume 228, Issue 4 (2024)*
+1. [Syzygies of the transfer ideal of the symmetric group](https://arxiv.org/abs/2604.27341)    
+with Harm Derksen
+
+#### Publications
+
+3. [Alexander duals of symmetric simplicial complexes and Stanley--Reisner ideals](https://arxiv.org/abs/2209.14132)   
+with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
+*Advances in Applied Mathematics (2026)*
 
 2. [Equivariant resolutions over Veronese rings](https://arxiv.org/abs/2210.16342)    
 with Ayah Almousa, Michael Perlman, Victor Reiner, and Keller VandeBogert <br>
 *Journal of the London Mathematical Society (2024)*
 
-3. [Alexander duals of symmetric simplicial complexes and Stanley--Reisner ideals](https://arxiv.org/abs/2209.14132) (submitted)   
-with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
+1. [Symmetric group fixed quotients of polynomial rings](https://arxiv.org/abs/2301.13377) <br>
+*Journal of Pure and Applied Algebra, Volume 228, Issue 4 (2024)*
 
 #### Upcoming talks
 
