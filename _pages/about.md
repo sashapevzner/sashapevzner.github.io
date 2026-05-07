@@ -46,6 +46,6 @@ with Ayah Almousa, Michael Perlman, Victor Reiner, and Keller VandeBogert <br>
 4. [Symmetric group fixed quotients of polynomial rings](https://arxiv.org/abs/2301.13377) <br>
 *Journal of Pure and Applied Algebra, Volume 228, Issue 4 (2024)*
 
-#### Upcoming talks
+#### Upcoming travel
 
 June 29 - July 3, 2026: Commutative Algebra and Algebraic Geometry in Milan (presenting poster)
