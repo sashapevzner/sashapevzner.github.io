@@ -35,16 +35,16 @@ with Harm Derksen
 
 #### Publications
 
-3. [Alexander duals of symmetric simplicial complexes and Stanley--Reisner ideals](https://arxiv.org/abs/2209.14132)   
+<ol reversed>
+  <li>[Alexander duals of symmetric simplicial complexes and Stanley--Reisner ideals](https://arxiv.org/abs/2209.14132)   
 with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel <br>
-*Advances in Applied Mathematics (2026)*
-
-2. [Equivariant resolutions over Veronese rings](https://arxiv.org/abs/2210.16342)    
+*Advances in Applied Mathematics (2026)*</li>
+  <li>[Equivariant resolutions over Veronese rings](https://arxiv.org/abs/2210.16342)    
 with Ayah Almousa, Michael Perlman, Victor Reiner, and Keller VandeBogert <br>
-*Journal of the London Mathematical Society (2024)*
-
-1. [Symmetric group fixed quotients of polynomial rings](https://arxiv.org/abs/2301.13377) <br>
-*Journal of Pure and Applied Algebra, Volume 228, Issue 4 (2024)*
+*Journal of the London Mathematical Society (2024)*</li>
+  <li>[Symmetric group fixed quotients of polynomial rings](https://arxiv.org/abs/2301.13377) <br>
+*Journal of Pure and Applied Algebra, Volume 228, Issue 4 (2024)*</li>
+</ol>
 
 #### Upcoming talks
 
