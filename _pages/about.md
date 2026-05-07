@@ -48,6 +48,4 @@ with Ayah Almousa, Michael Perlman, Victor Reiner, and Keller VandeBogert <br>
 
 #### Upcoming talks
 
-April 1, 2026: Purdue Commutative Algebra Seminar
-
-April 18-19: AMS Sectional Meeting, Topics in Commutative Algebra session, Fargo ND
+June 29 - July 3, 2026: Commutative Algebra and Algebraic Geometry in Milan (presenting poster)
