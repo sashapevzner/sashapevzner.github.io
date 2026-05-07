@@ -36,7 +36,7 @@ with Harm Derksen
 #### Publications
 
 3. [Alexander duals of symmetric simplicial complexes and Stanley--Reisner ideals](https://arxiv.org/abs/2209.14132)   
-with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel
+with Ayah Almousa, Kaitlin Bruegge, Martina Juhnke-Kubitzke, and Uwe Nagel <br>
 *Advances in Applied Mathematics (2026)*
 
 2. [Equivariant resolutions over Veronese rings](https://arxiv.org/abs/2210.16342)    
