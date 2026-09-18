@@ -4,5 +4,5 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: CV_Pevzner_Spring_2026.pdf
+cv_pdf: CV-Sep9-2026.pdf
 ---
